@@ -18,7 +18,7 @@ API_HASH = environ.get('API_HASH', 'f7764b70861584bca951040781111bfb')
 BOT_TOKEN = environ.get('BOT_TOKEN', "6269154775:AAHEY-j_K8ou-51Iz-wByhpWIOhoMg1kWVY")
 
 # Bot setting
-CACHE_TIME = int(environ.get('CACHE_TIME', 600))
+CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
 PICS = (environ.get('PICS', 'https://telegra.ph/file/06de6c810fdeeabe7db9b.jpg')).split()
@@ -80,7 +80,7 @@ AUTO_DELETE = is_enabled((environ.get('AUTO_DELETE', "True")), True)
 MAUTO_DELETE = is_enabled((environ.get('MAUTO_DELETE', "True")), True)
 
 # Delete Time
-DELETE_TIME = int(environ.get('DELETE_TIME', 300))
+DELETE_TIME = int(environ.get('DELETE_TIME', 600))
 SPL_DELETE_TIME = int(environ.get('SPL_DELETE_TIME', 15))
 
 # URL SHORTNER
