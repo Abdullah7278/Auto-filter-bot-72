@@ -11,7 +11,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ : {}</b>
 
-<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/Ak74400>☢ Bot_Owner ☢</a></b>
+<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/salman746>☢ salman746 ☢</a></b>
 
 <b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/ak_backup_72>Ak Bots Updates 👾</a></b>
 
@@ -135,7 +135,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
 <b>🆓 ғʀᴇᴇ:</b> <code>{}</code>
 
-<b>⍟────[ @Devloperr_Bots ]─────⍟</b>"""
+<b>⍟────[ @ak_backup_72 ]─────⍟</b>"""
 
     LOG_TEXT_G = """<b>#NewGroup
     
